@@ -14,7 +14,7 @@ app.use(cors());
 app.use("/posts", postRoutes);
 
 const CONNECTION_URL =
-  "mongodb+srv://ShivankSwami4712:Metro@123@mernapp.h3lrkvg.mongodb.net/?retryWrites=true&w=majority";
+  "mongodb+srv://shivankdocuments77:W0fiVmOzlatwpyuT@cluster0.y2huv46.mongodb.net/";
 const PORT = process.env.PORT || 5000;
 
 mongoose
